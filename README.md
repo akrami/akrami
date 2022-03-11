@@ -1,1 +1,5 @@
-### Hi there, I am _Alireza Akrami_ 👋
+
+### Hi 👋, I'm Alireza
+I'm a **PHP** developer,  
+**Linux**, and **DevOps** Enthusiastic  
+And a Pro Gamer 🕹
